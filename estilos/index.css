@@ -1,13 +1,12 @@
 .btn{
+    width: 100%;
 display: flex;
 justify-content: center;
+background-color: #3b5998;
 
 }
-.login100-form-btn{
-    background-color:#3b5998;
-}
-.login100-form-btn:hover{
-    background-color:   #655c5c;
+.btn input{
+    background-color: #3b5998;
 }
 p{
     font-weight: 700;
