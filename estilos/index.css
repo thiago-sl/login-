@@ -1,0 +1,19 @@
+.btn{
+display: flex;
+justify-content: center;
+
+}
+.login100-form-btn{
+    background-color:#3b5998;
+}
+.login100-form-btn:hover{
+    background-color:   #655c5c;
+}
+p{
+    font-weight: 700;
+    font-size: 18px;
+  text-decoration-line: none;
+}
+h1{
+    font-weight: 900;
+}
